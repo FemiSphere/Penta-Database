@@ -29,3 +29,14 @@ last updated @ 2025/05
 [5] X. Zeng, H. Li, H.Sun, et al., Angew. Chem. Int. Ed. 54, 1327 – 1330 (2015)
 
 [6] A. Velian and C. C. Cummins, Science 348, 1001-1004 (2015)
+
+# Cite
+
+If you use this database, please kindly refer to the following literature.
+
+
+[1] Shen Y and Wang Q 2022 Pentagon-based 2D materials: classification, properties and applications Phys. Rep. 964 1–42
+
+[2] Nazir M A, Hassan A, Shen Y and Wang Q 2022 Research progress on penta-graphene and its related materials: properties and applications Nano Today 44 101501
+
+
