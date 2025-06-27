@@ -1,5 +1,5 @@
 # Penta-Database
-Database for Pentagon-Based sheets,  developed by the research group led by Professor Wang Qian from the School of Materials Science and Engineering at Peking University.
+Database for Pentagon-Based sheets,  developed by the research group led by Professor Qian Wang from the School of Materials Science and Engineering at Peking University.
 
 _website:https://femisphere.github.io/Penta-Database/_
 
