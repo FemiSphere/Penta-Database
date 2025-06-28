@@ -1,14 +1,15 @@
 # Penta-Database
+## Basic Information
 Database for Pentagon-Based sheets,  developed by the research group led by Professor Qian Wang from the School of Materials Science and Engineering at Peking University.
 
-_website:https://femisphere.github.io/Penta-Database/_
+> Database website: https://femisphere.github.io/Penta-Database/
+>
+> Personal homepage of Professor Qian Wang: http://www2.coe.pku.edu.cn/subpaget.asp?id=542
+>
+> Last updated: June 2025
 
-last updated @ 2025/05 
-
+## Introduction: Holy Pentagon, from Mathematics to Chemistry and Material Science
 ![image](https://github.com/user-attachments/assets/be1be052-a36c-4777-b369-1961b444fb01)
-
-
-# Holy Pentagon: From Mathematics to Chemistry and Material Science
 
   Pentagon-based 2D materials have received increasing attention because of their unique atomic configurations, rich physical and chemical properties, and their promise for broad applications. The theoretical prediction of penta-graphene [1] together with the finding of the 15th type of pentagons that can tile a plane with no overlaps or gaps highlight the geometry-driven discoveries in science.
 
@@ -30,13 +31,12 @@ last updated @ 2025/05
 
 [6] A. Velian and C. C. Cummins, Science 348, 1001-1004 (2015)
 
-# Cite
+## Cite
 
-If you use this database, please kindly refer to the following literature.
+If you use this database, please kindly refer to the following literatures.
 
+[1] Y. H. Shen, Q. Wang, Phys. Rep. 964, 1 – 42 (2022)
 
-[1] Shen Y and Wang Q 2022 Pentagon-based 2D materials: classification, properties and applications Phys. Rep. 964 1–42
-
-[2] Nazir M A, Hassan A, Shen Y and Wang Q 2022 Research progress on penta-graphene and its related materials: properties and applications Nano Today 44 101501
+[2] M. A. Nazir, A. Hassan, Y. H. Shen and Q. Wang Q, Nano Today 44, 101501 (2022)
 
 
