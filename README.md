@@ -3,8 +3,7 @@
 Database for Pentagon-Based sheets,  developed by the research group led by Professor Qian Wang from the School of Materials Science and Engineering at Peking University.
 
 > Database website:
-> - https://penta-db.pages.dev
-> - the equivalent address is https://femisphere.github.io/Penta-Database/
+> - https://www.pubsd.com/
 >
 > Personal homepage of Professor Qian Wang: http://www2.coe.pku.edu.cn/subpaget.asp?id=542
 >
